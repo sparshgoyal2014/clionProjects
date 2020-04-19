@@ -1,0 +1,3 @@
+C:/Users/spars/CLionProjects/segFault/cmake-build-debug/CMakeFiles/segFault.dir
+C:/Users/spars/CLionProjects/segFault/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/spars/CLionProjects/segFault/cmake-build-debug/CMakeFiles/rebuild_cache.dir

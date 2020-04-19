@@ -1,0 +1,3 @@
+C:/Users/spars/CLionProjects/testAddressStringLiteral/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/spars/CLionProjects/testAddressStringLiteral/cmake-build-debug/CMakeFiles/testAddressStringLiteral.dir
+C:/Users/spars/CLionProjects/testAddressStringLiteral/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/spars/CLionProjects/testCharPointer/cmake-build-debug/CMakeFiles/testCharPointer.dir
+C:/Users/spars/CLionProjects/testCharPointer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/spars/CLionProjects/testCharPointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

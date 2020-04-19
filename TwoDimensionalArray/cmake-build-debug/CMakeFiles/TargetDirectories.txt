@@ -1,0 +1,3 @@
+C:/Users/spars/CLionProjects/TwoDimensionalArray/cmake-build-debug/CMakeFiles/TwoDimensionalArray.dir
+C:/Users/spars/CLionProjects/TwoDimensionalArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/spars/CLionProjects/TwoDimensionalArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir

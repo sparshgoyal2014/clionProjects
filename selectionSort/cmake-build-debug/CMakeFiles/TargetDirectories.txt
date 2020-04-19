@@ -1,0 +1,3 @@
+C:/Users/spars/CLionProjects/selectionSort/cmake-build-debug/CMakeFiles/selectionSort.dir
+C:/Users/spars/CLionProjects/selectionSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/spars/CLionProjects/selectionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

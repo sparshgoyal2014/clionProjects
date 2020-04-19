@@ -1,0 +1,3 @@
+C:/Users/spars/CLionProjects/Passing2DArray/cmake-build-debug/CMakeFiles/Passing2DArray.dir
+C:/Users/spars/CLionProjects/Passing2DArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/spars/CLionProjects/Passing2DArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir

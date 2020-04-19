@@ -1,0 +1,3 @@
+C:/Users/spars/CLionProjects/arrayDecayIn2DArrays/cmake-build-debug/CMakeFiles/arrayDecayIn2DArrays.dir
+C:/Users/spars/CLionProjects/arrayDecayIn2DArrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/spars/CLionProjects/arrayDecayIn2DArrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
